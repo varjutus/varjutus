@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**varjutus/varjutus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on setting things on fire
 - 🌱 I’m currently learning about questioning my sanity
 - 👯 I’m looking to collaborate on ??
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: don't :)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: fire is fun
--->
