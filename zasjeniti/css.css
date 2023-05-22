@@ -1,7 +1,18 @@
 * {
     box-sizing: border-box;
   }
+  a:link {
+    color: #00072e;
+    background-color: transparent;
+    text-decoration: underline;
+  }
   
+  a:visited {
+    color: #0043b6;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
   /* Set a background color */
   body {
     background-color: #00072e;
