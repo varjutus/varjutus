@@ -4,7 +4,7 @@
   
   /* Set a background color */
   body {
-    background-color: #000c50;
+    background-color: #00072e;
     font-family: Helvetica, sans-serif;
   }
   
@@ -20,7 +20,7 @@
     content: '';
     position: absolute;
     width: 6px;
-    background-color: white;
+    background-color: #FFCD00;
     top: 0;
     bottom: 0;
     left: 50%;
