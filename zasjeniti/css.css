@@ -6,8 +6,14 @@
   body {
     background-color: #00072e;
     font-family: Helvetica, sans-serif;
+    
   }
-  
+  h2 {
+    color: #00072e;
+  }
+  p {
+    color: #00072e;
+  }
   /* The actual timeline (the vertical ruler) */
   .timeline {
     position: relative;
